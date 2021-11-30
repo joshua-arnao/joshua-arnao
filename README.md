@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+const joshuaarnao = {
+ pronouns: "he" | "him",
+ codeLearning: [HTML, CSS, Javascript],
+ background: [UX, UI],
+ }
+```
+
 <!--
 **joshua-arnao/joshua-arnao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
