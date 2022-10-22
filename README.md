@@ -3,7 +3,7 @@
 ```js
 const joshuaarnao = {
  pronouns: "he" | "him",
- codeLearning: [HTML, CSS, Javascript],
+ codeLearning: [HTML, CSS, Javascript, React JS],
  background: [UX, UI],
  }
 ```
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
