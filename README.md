@@ -3,7 +3,7 @@
 ```js
 const joshuaarnao = {
  pronouns: "he" | "him",
- codeLearning: [HTML, CSS, Javascript, React JS],
+ codeLearning: [HTML, CSS, Javascript, React JS, Java, Python],
  background: [UX, UI],
  }
 ```
